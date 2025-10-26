@@ -1,0 +1,9 @@
+# Core dependencies
+markdown>=3.5
+weasyprint>=60.0
+
+# Testing
+pytest>=8.0
+
+# Optional: Alternative PDF generators
+# playwright>=1.40.0  # Uncomment if you prefer browser-based PDF generation

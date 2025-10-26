@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max Ghenis - CV</title>
+    <style>
+        :root {
+            /* PolicyEngine color palette from policyengine-app-v2 */
+            --primary-color: #319795;  /* Teal 500 */
+            --primary-dark: #285E61;   /* Teal 700 */
+            --primary-light: #B2F5EA;  /* Teal 100 */
+            --secondary-color: #0EA5E9; /* Blue 500 */
+            --text-color: #000000;
+            --text-secondary: #5A5A5A;
+            --text-tertiary: #9CA3AF;
+            --light-gray: #F5F9FF;     /* Background secondary */
+            --border-color: #E2E8F0;   /* Border light */
+            --border-medium: #CBD5E1;  /* Border medium */
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #fff;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* Print-specific styles */
+        @media print {
+            body {
+                max-width: 100%;
+                padding: 0;
+                font-size: 11pt;
+            }
+
+            a {
+                color: var(--text-color);
+                text-decoration: none;
+            }
+
+            .no-print {
+                display: none;
+            }
+        }
+
+        /* Header */
+        h1 {
+            font-size: 2.5em;
+            color: var(--primary-color);
+            margin-bottom: 0.3em;
+            border-bottom: 3px solid var(--secondary-color);
+            padding-bottom: 0.3em;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 30px;
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        .contact-info strong {
+            color: var(--text-color);
+        }
+
+        /* Sections */
+        h2 {
+            font-size: 1.5em;
+            color: var(--primary-color);
+            margin-top: 1.5em;
+            margin-bottom: 0.8em;
+            padding-bottom: 0.3em;
+            border-bottom: 2px solid var(--light-gray);
+        }
+
+        h3 {
+            font-size: 1.2em;
+            color: var(--secondary-color);
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        /* Experience and Education entries */
+        .entry {
+            margin-bottom: 1.5em;
+        }
+
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 0.5em;
+            flex-wrap: wrap;
+        }
+
+        .entry-title {
+            font-weight: 600;
+            color: var(--primary-color);
+            font-size: 1.1em;
+        }
+
+        .entry-date {
+            color: #666;
+            font-style: italic;
+            font-size: 0.9em;
+        }
+
+        .entry-org {
+            color: var(--secondary-color);
+            margin-bottom: 0.5em;
+        }
+
+        /* Lists */
+        ul {
+            margin-left: 20px;
+            margin-bottom: 1em;
+        }
+
+        li {
+            margin-bottom: 0.5em;
+        }
+
+        /* Links */
+        a {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Summary section */
+        .summary {
+            background-color: var(--light-gray);
+            padding: 1em;
+            border-left: 4px solid var(--secondary-color);
+            margin-bottom: 1.5em;
+            font-size: 1.05em;
+        }
+
+        /* Skills section */
+        .skills-category {
+            margin-bottom: 1em;
+        }
+
+        .skills-category h4 {
+            color: var(--secondary-color);
+            font-size: 1em;
+            margin-bottom: 0.3em;
+        }
+
+        /* Publications */
+        .publication {
+            margin-bottom: 0.8em;
+        }
+
+        .publication strong {
+            color: var(--primary-color);
+        }
+
+        /* Separator */
+        hr {
+            border: none;
+            border-top: 1px solid var(--border-color);
+            margin: 2em 0;
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            .entry-header {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    {{CONTENT}}
+</body>
+</html>
