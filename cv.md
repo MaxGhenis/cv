@@ -1,15 +1,14 @@
 # Max Ghenis
 
 <div class="contact-header">
-
-[max@policyengine.org](mailto:max@policyengine.org)
-+1.650.630.3657
-Washington, DC
-
-[maxghenis.com](https://maxghenis.com)
-[github.com/maxghenis](https://github.com/maxghenis)
-[linkedin.com/in/maxghenis](https://www.linkedin.com/in/maxghenis)
-
+<p><i class="fas fa-envelope"></i> <a href="mailto:max@policyengine.org">max@policyengine.org</a></p>
+<p><i class="fas fa-phone"></i> +1.650.630.3657</p>
+<p><i class="fas fa-map-marker-alt"></i> Washington, DC</p>
+<p><i class="fas fa-globe"></i> <a href="https://maxghenis.com">maxghenis.com</a></p>
+<p><i class="fab fa-github"></i> <a href="https://github.com/maxghenis">github.com/maxghenis</a></p>
+<p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/maxghenis">linkedin.com/in/maxghenis</a></p>
+<p><i class="fab fa-x-twitter"></i> <a href="https://x.com/maxghenis">@maxghenis</a></p>
+<p><i class="fab fa-bluesky"></i> <a href="https://bsky.app/profile/maxghenis.bsky.social">@maxghenis</a></p>
 </div>
 
 ---
@@ -163,13 +162,6 @@ Policy entrepreneur, technologist, and economist building computational tools th
 - **Analysis of Senator Romney's Family Security Act.** 2021.
 - **Revenue and Distributional Impacts of the American Rescue Plan Act.** With Jason DeBacker, Richard W. Evans, and Cody Kallen. 2021.
 - **Distributional analysis of Andrew Yang's Freedom Dividend.** 2019.
-
-### Open Source Software
-
-- **PolicyEngine Core** - Tax-benefit microsimulation engine powering PolicyEngine platforms
-- **microdf** - Python library for weighted survey data analysis (pandas extension)
-- **synthimpute** - Python library for synthetic data generation and variable imputation
-- **glassbox** - R package for model interpretability (with Ben Ogorek and Estevan Flores)
 
 ---
 

@@ -136,7 +136,7 @@ def test_pdf_generation_possible():
             ["python", str(build_script), "--pdf"],
             capture_output=True,
             text=True,
-            timeout=30,
+            timeout=60,  # Increased for external resource loading (fonts, icons)
             cwd=str(build_script.parent)
         )
 
