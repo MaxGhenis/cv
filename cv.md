@@ -131,7 +131,7 @@ University of California, Berkeley
 
 ### Book Chapters
 
-- **Mortality, existential risk, and universal basic income.** In *Death And Anti-Death, Volume 18: Fifty Years After Earth Day*, edited by Charles Tandy. RIA University Press, 2021.
+- [Mortality, existential risk, and universal basic income](https://www.amazon.com/Death-Anti-Death-18-Fifty-University/dp/1934297348). In *Death And Anti-Death, Volume 18: Fifty Years After Earth Day*, edited by Charles Tandy. RIA University Press, 2021.
 
 ### PolicyEngine Research
 
