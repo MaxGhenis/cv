@@ -128,6 +128,8 @@ University of California, Berkeley
 ### Working Papers
 
 - [What can LLMs tell us about the ETI?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5410643) With Jason DeBacker. SSRN Working Paper, August 2025.
+- [AI Model Policy Impact Forecasts: A Narrative Prompting Approach](https://github.com/MaxGhenis/llm-presidential-outcome-forecasts/blob/main/paper/main.pdf). November 2024.
+- [Enhancing Survey Microdata with Administrative Records](https://github.com/PolicyEngine/policyengine-us-data/blob/main/paper/main.pdf). With Nikhil Woodruff. Presented at National Tax Association meeting, November 2024.
 
 ### Book Chapters
 
