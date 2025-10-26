@@ -220,6 +220,6 @@ University of California, Berkeley
 
 ## Interests
 
-**Music:** Semi-professional saxophone, amateur guitar, piano, and singing
+**Music:** Saxophone, guitar, piano, and singing
 **Advocacy:** Pro-housing/YIMBY organizing, climate policy (carbon fee and dividend), effective altruism
 **Policy Research:** Universal basic income, tax reform, anti-poverty programs
