@@ -20,6 +20,7 @@ Policy entrepreneur, technologist, and economist building computational tools th
 *October 2021 - Present*
 
 - Founded and lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze the personalized and population-level impacts of tax and benefit policy reforms
+- Serve users across government (Joint Economic Committee, DC Council, New York Senate), research organizations (NBER, Georgetown, University of Michigan), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations (Amplifi, Colorado Fiscal Institute)
 - Built comprehensive social insurance program models including eligibility rules and benefit calculations for Medicaid, CHIP, ACA premium tax credits, SSI, Social Security benefit taxation, and other federal and state programs
 - Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK to calculate UK-wide and personalized impacts of customizable tax and benefit reforms
 - Launched PolicyEngine US in 2022, expanding microsimulation capabilities to all 50 states and federal programs
