@@ -7,8 +7,8 @@
 <p><i class="fas fa-globe"></i> <a href="https://maxghenis.com">maxghenis.com</a></p>
 <p><i class="fab fa-github"></i> <a href="https://github.com/maxghenis">github.com/maxghenis</a></p>
 <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/maxghenis">linkedin.com/in/maxghenis</a></p>
-<p><i class="fab fa-x-twitter"></i> <a href="https://x.com/maxghenis">@maxghenis</a></p>
-<p><i class="fab fa-bluesky"></i> <a href="https://bsky.app/profile/maxghenis.bsky.social">@maxghenis</a></p>
+<p><i class="fab fa-x-twitter"></i> <a href="https://x.com/maxghenis">x.com/maxghenis</a></p>
+<p><i class="fa-brands fa-bluesky"></i> <a href="https://bsky.app/profile/maxghenis.bsky.social">bsky.app/profile/maxghenis.bsky.social</a></p>
 </div>
 
 ---
