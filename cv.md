@@ -25,7 +25,7 @@ Policy entrepreneur, technologist, and economist building computational tools th
 *October 2021 - Present*
 
 - Founded and currently lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze personalized and population-level impacts of tax and benefit policy reforms
-- Built comprehensive social insurance program models including eligibility rules and benefit calculations for Medicaid, CHIP, ACA premium tax credits, SSI, Social Security benefit taxation, SNAP, TANF, and housing assistance across federal and state programs
+- Built comprehensive tax and benefit microsimulation models covering federal and all 50 state income taxes, payroll taxes, and major benefit programs including Medicaid, CHIP, ACA premium tax credits, SNAP, SSI, TANF, and Social Security benefit taxation
 - Serve diverse users including government agencies (Joint Economic Committee, DC Council, NY Senate), research organizations (NBER), universities (Georgetown, University of Michigan), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations nationwide
 - Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK; launched PolicyEngine US in 2022, expanding to all 50 states and federal programs
 - Secured and delivered grants, research contracts, and API service agreements with partners including Federal Reserve Bank of Atlanta, NBER, National Science Foundation ($300K), NEO Philanthropy ($200K), and Nuffield Foundation (£250K)
@@ -72,7 +72,6 @@ Policy entrepreneur, technologist, and economist building computational tools th
 ### Analyst / Senior Analyst, [Beghou Consulting](https://beghouconsulting.com/)
 *June 2008 - July 2010*
 
-- Promoted to Senior Analyst within first year
 - Consulted for pharmaceutical companies on sales force optimization, territory alignment, and resource allocation
 - Developed predictive models for sales forecasting and market analysis
 
@@ -182,7 +181,7 @@ University of California, Berkeley
 - [My 2024 in Code: Personal Projects & AI Tools](https://maxghenis.substack.com/p/my-2024-in-code-personal-projects). January 2025.
 - [Elon Musk's AI Predicts Americans Will Be $800 Richer Under Harris](https://maxghenis.substack.com/p/elon-musks-ai-predicts-americans). November 2024.
 
-### UBI Center Research (2019-2022)
+### UBI Center Research
 
 - [The Inflation Reduction Act discourages electric vehicle buyers from working](https://www.ubicenter.org/ira-ev-credit-cliff). 2022.
   *Winner of Robert Corrin Prize for Outstanding Research from the Savings and Retirement Foundation*
