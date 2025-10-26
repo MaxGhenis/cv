@@ -125,6 +125,10 @@ University of California, Berkeley
 
 ## Selected Publications & Research
 
+### Working Papers
+
+- [What can LLMs tell us about the ETI?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5410643) With Jason DeBacker. SSRN Working Paper, August 2025.
+
 ### PolicyEngine Research
 
 - [Marginal tax rates in California's proposed billionaire tax](https://policyengine.org/us/research/california-billionaire-tax-marginal-rates). October 2025.
