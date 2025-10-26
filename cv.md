@@ -24,10 +24,10 @@ Policy entrepreneur, technologist, and economist building computational tools th
 ### Co-founder and CEO, [PolicyEngine](http://policyengine.org)
 *October 2021 - Present*
 
-- Founded and currently lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze personalized and population-level impacts of tax and benefit policy reforms
-- Built comprehensive tax and benefit microsimulation models covering federal and all 50 state income taxes, payroll taxes, and major benefit programs including Medicaid, CHIP, ACA premium tax credits, SNAP, SSI, TANF, and Social Security benefit taxation
-- Serve diverse users including government agencies (Joint Economic Committee, DC Council, NY Senate), research organizations (NBER), universities (Georgetown, University of Michigan), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations nationwide
-- Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK; launched PolicyEngine US in 2022, expanding to all 50 states and federal programs
+- Founded and currently lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze personalized and population-level impacts of tax and benefit policy reforms in the US and UK
+- Built comprehensive tax and benefit microsimulation models covering federal and state income taxes, payroll taxes, capital gains, VAT, and major benefit programs including Medicaid, CHIP, ACA subsidies, SNAP, SSI, TANF, Universal Credit, Child Tax Credit, and Social Security/State Pension benefit taxation
+- Serve diverse users including government agencies (Joint Economic Committee, DC Council, NY Senate), research organizations (NBER), universities (Georgetown, University of Michigan), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations
+- Launched PolicyEngine UK in October 2021; launched PolicyEngine US in 2022 with all 50 states and federal programs
 - Secured and delivered grants, research contracts, and API service agreements with partners including Federal Reserve Bank of Atlanta, NBER, National Science Foundation ($300K), NEO Philanthropy ($200K), and Nuffield Foundation (£250K)
 - Enhanced microsimulation accuracy using machine learning for variable imputation and survey weight calibration, reducing deviations from administrative statistics by 97%
 
@@ -72,6 +72,7 @@ Policy entrepreneur, technologist, and economist building computational tools th
 ### Analyst / Senior Analyst, [Beghou Consulting](https://beghouconsulting.com/)
 *June 2008 - July 2010*
 
+- Promoted from Analyst to Senior Analyst during tenure
 - Consulted for pharmaceutical companies on sales force optimization, territory alignment, and resource allocation
 - Developed predictive models for sales forecasting and market analysis
 
