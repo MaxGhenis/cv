@@ -23,7 +23,7 @@ Policy entrepreneur, technologist, and economist building computational tools th
 - Built comprehensive social insurance program models including eligibility rules and benefit calculations for Medicaid, CHIP, ACA premium tax credits, SSI, Social Security benefit taxation, and other federal and state programs
 - Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK to calculate UK-wide and personalized impacts of customizable tax and benefit reforms
 - Launched PolicyEngine US in 2022, expanding microsimulation capabilities to all 50 states and federal programs
-- Secured and delivered over a dozen grants, research contracts, and API service agreements with partners including government agencies (HM Treasury, NBER, Federal Reserve Bank of Atlanta), think tanks, and advocacy organizations
+- Secured and delivered over a dozen grants, research contracts, and API service agreements with partners including government agencies (HM Treasury, Federal Reserve Bank of Atlanta), research organizations (NBER), think tanks, and advocacy organizations
 - Built computational models simulating how hundreds of thousands of households respond to policy changes across tax and benefit programs
 - Enhanced microsimulation accuracy using machine learning for variable imputation and survey weight calibration
 
