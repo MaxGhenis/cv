@@ -129,6 +129,10 @@ University of California, Berkeley
 
 - [What can LLMs tell us about the ETI?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5410643) With Jason DeBacker. SSRN Working Paper, August 2025.
 
+### Book Chapters
+
+- **Mortality, existential risk, and universal basic income.** In *Death And Anti-Death, Volume 18: Fifty Years After Earth Day*, edited by Charles Tandy. RIA University Press, 2021.
+
 ### PolicyEngine Research
 
 - [Marginal tax rates in California's proposed billionaire tax](https://policyengine.org/us/research/california-billionaire-tax-marginal-rates). October 2025.
