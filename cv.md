@@ -24,14 +24,12 @@ Policy entrepreneur, technologist, and economist building computational tools th
 ### Co-founder and CEO, [PolicyEngine](http://policyengine.org)
 *October 2021 - Present*
 
-- Founded and lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze the personalized and population-level impacts of tax and benefit policy reforms
-- Built comprehensive social insurance program models including eligibility rules and benefit calculations for Medicaid, CHIP, ACA premium tax credits, SSI, Social Security benefit taxation, and other federal and state programs
-- Serve diverse users including government agencies (Joint Economic Committee, DC Council, NY Senate), research organizations (NBER), universities (Georgetown, UMich), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations nationwide
-- Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK to calculate UK-wide and personalized impacts of customizable tax and benefit reforms
-- Launched PolicyEngine US in 2022, expanding microsimulation capabilities to all 50 states and federal programs
-- Secured and delivered over a dozen grants, research contracts, and API service agreements with partners including government agencies (Federal Reserve Bank of Atlanta), research organizations (NBER), think tanks, and advocacy organizations
-- Built computational models simulating how hundreds of thousands of households respond to policy changes across tax and benefit programs
-- Enhanced microsimulation accuracy using machine learning for variable imputation and survey weight calibration
+- Founded and currently lead PolicyEngine, a nonprofit software platform enabling policymakers, researchers, and citizens to analyze personalized and population-level impacts of tax and benefit policy reforms
+- Built comprehensive social insurance program models including eligibility rules and benefit calculations for Medicaid, CHIP, ACA premium tax credits, SSI, Social Security benefit taxation, SNAP, TANF, and housing assistance across federal and state programs
+- Serve diverse users including government agencies (Joint Economic Committee, DC Council, NY Senate), research organizations (NBER), universities (Georgetown, University of Michigan), think tanks (Niskanen Center, Arnold Ventures), and advocacy organizations nationwide
+- Spun off PolicyEngine from the UBI Center in October 2021, launching PolicyEngine UK; launched PolicyEngine US in 2022, expanding to all 50 states and federal programs
+- Secured and delivered grants, research contracts, and API service agreements with partners including Federal Reserve Bank of Atlanta, NBER, National Science Foundation ($300K), NEO Philanthropy ($200K), and Nuffield Foundation (£250K)
+- Enhanced microsimulation accuracy using machine learning for variable imputation and survey weight calibration, reducing deviations from administrative statistics by 97%
 
 ### Founder and President, [UBI Center](http://ubicenter.org)
 *April 2019 - March 2023*
@@ -74,7 +72,9 @@ Policy entrepreneur, technologist, and economist building computational tools th
 ### Analyst / Senior Analyst, [Beghou Consulting](https://beghouconsulting.com/)
 *June 2008 - July 2010*
 
-- Consulted for pharmaceutical clients on sales force optimization and analytics
+- Promoted to Senior Analyst within first year
+- Consulted for pharmaceutical companies on sales force optimization, territory alignment, and resource allocation
+- Developed predictive models for sales forecasting and market analysis
 
 ---
 
@@ -115,11 +115,11 @@ University of California, Berkeley
 
 **Domain Knowledge:**
 
-- Tax policy (income, payroll, wealth, carbon taxation)
-- Benefit programs (SNAP, TANF, SSI, housing assistance)
+- Tax policy design and reform analysis (income, payroll, wealth, carbon taxation)
+- Social insurance programs and benefit-cliff analysis
 - Universal basic income and cash transfer policies
-- Survey methodology and synthetic data generation
-- Poverty and inequality measurement
+- Survey methodology, synthetic data generation, and statistical matching
+- Poverty and inequality measurement (SPM, deep poverty, distributional analysis)
 
 ---
 
@@ -184,14 +184,14 @@ University of California, Berkeley
 
 ### UBI Center Research (2019-2022)
 
-- **The Inflation Reduction Act discourages electric vehicle buyers from working.** 2022.
+- [The Inflation Reduction Act discourages electric vehicle buyers from working](https://www.ubicenter.org/ira-ev-credit-cliff). 2022.
   *Winner of Robert Corrin Prize for Outstanding Research from the Savings and Retirement Foundation*
-- **How does targeted cash assistance affect incentives to work?** 2022.
-- **The progressivity of a UK carbon dividend.** With Nikhil Woodruff. 2022.
-- **Carbon dividends as anti-poverty policy.** 2021.
-- **Analysis of Senator Romney's Family Security Act.** 2021.
-- **Revenue and Distributional Impacts of the American Rescue Plan Act.** With Jason DeBacker, Richard W. Evans, and Cody Kallen. 2021.
-- **Distributional analysis of Andrew Yang's Freedom Dividend.** 2019.
+- [How does targeted cash assistance affect incentives to work?](https://www.thecgo.org/research/how-does-targeted-cash-assistance-affect-incentives-to-work/) 2022.
+- [The progressivity of a UK carbon dividend](https://www.ubicenter.org/uk-carbon-dividend). With Nikhil Woodruff. 2022.
+- [Carbon dividends as anti-poverty policy](https://www.ubicenter.org/us-carbon-dividend). 2021.
+- [Analysis of Senator Romney's Family Security Act](https://www.ubicenter.org/family-security-act). 2021.
+- [Revenue and Distributional Impacts of the American Rescue Plan Act](https://www.openrg.com/reports/QN_ARPA_Distribution.pdf). With Jason DeBacker, Richard W. Evans, and Cody Kallen. 2021.
+- [Distributional analysis of Andrew Yang's Freedom Dividend](https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b). 2019.
 
 ---
 
@@ -209,9 +209,9 @@ University of California, Berkeley
 
 **Open Sustainability Summit** | 2024
 
-**Society of Government Economists Annual Conference** | 2025
-
 **Rules as Code Europe** | March 2025, Paris, France
+
+**Society of Government Economists (SGE) Annual Conference** | Washington, DC
 
 **University Guest Lectures** | 2024
 - UC Berkeley
@@ -226,7 +226,7 @@ University of California, Berkeley
 
 ---
 
-## Volunteer Leadership & Community Engagement
+## Professional Affiliations & Advisory Roles
 
 ### Leadership Council Member, [Policy Simulation Library](http://pslmodels.org)
 *September 2020 - Present*
@@ -237,23 +237,3 @@ University of California, Berkeley
 *August 2019 - Present*
 
 - Advise on development of synthetic version of IRS Public Use File for accurate, privacy-safe policy analysis
-
-### Co-founder and Chair, [Ventura County YIMBY](http://vcyimby.org)
-*August 2019 - September 2022*
-
-- Created the sole pro-housing advocacy group in 800,000-person Ventura County, growing to over 1,000 members
-
-### California State Coordinator, [Citizens' Climate Lobby](http://citizensclimatelobby.org)
-*January 2022 - September 2022*
-
-- Supported eight chapters in Southern California advocating carbon fee and dividend policy
-
-### Board Member, [USBIG](http://usbig.org)
-*November 2021 - April 2022*
-
-- Promoted discussion of basic income guarantee in the United States
-
-### Organizer, [Save the Gas Tax](http://savethegastax.org)
-*January 2022 - June 2022*
-
-- Formed coalition of 15 organizations advocating to cancel proposed gas tax holiday in California

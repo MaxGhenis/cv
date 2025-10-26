@@ -42,7 +42,8 @@ def test_cv_has_required_sections():
         "## Professional Experience",
         "## Key Skills",
         "## Selected Publications",
-        "## Volunteer Leadership",
+        "## Conference Presentations",
+        "## Professional Affiliations",
     ]
 
     for section in required_sections:
