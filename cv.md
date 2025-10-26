@@ -1,10 +1,16 @@
 # Max Ghenis
 
-**Email:** max@policyengine.org
-**Phone:** +1.650.630.3657
-**Location:** 950 3rd St NW #206, Washington, DC 20001
-**GitHub:** [github.com/maxghenis](https://github.com/maxghenis)
-**LinkedIn:** [linkedin.com/in/maxghenis](https://www.linkedin.com/in/maxghenis)
+<div class="contact-header">
+
+[max@policyengine.org](mailto:max@policyengine.org)
++1.650.630.3657
+Washington, DC
+
+[maxghenis.com](https://maxghenis.com)
+[github.com/maxghenis](https://github.com/maxghenis)
+[linkedin.com/in/maxghenis](https://www.linkedin.com/in/maxghenis)
+
+</div>
 
 ---
 

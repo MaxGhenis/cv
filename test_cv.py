@@ -58,6 +58,7 @@ def test_cv_has_contact_info():
     assert "max@policyengine.org" in content, "CV missing email"
     assert "+1.650.630.3657" in content or "650.630.3657" in content, "CV missing phone"
     assert "github.com/maxghenis" in content, "CV missing GitHub"
+    assert "maxghenis.com" in content, "CV missing personal website"
 
 
 def test_cv_has_policyengine():

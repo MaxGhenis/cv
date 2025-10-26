@@ -76,9 +76,9 @@ def add_semantic_classes(html: str) -> str:
     Returns:
         HTML with added classes
     """
-    # Wrap contact info in div
+    # Wrap contact info in div (handles both old and new format)
     html = re.sub(
-        r'(<p><strong>Email:</strong>.*?</p>\s*<p><strong>Phone:</strong>.*?</p>.*?<strong>LinkedIn:</strong>.*?</p>)',
+        r'(<p>max@policyengine\.org.*?linkedin\.com/in/maxghenis.*?</p>)',
         r'<div class="contact-info">\1</div>',
         html,
         flags=re.DOTALL
