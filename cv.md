@@ -109,10 +109,31 @@ University of California, Berkeley
 
 ## Selected Publications & Research
 
-### PolicyEngine Research (2022-2024)
+### PolicyEngine Research (2024-2025)
 
-- **Improving the accuracy of UK tax-benefit microsimulation with machine learning.** With Nikhil Woodruff. 2024.
-- **Wyden-Smith Child Tax Credit Expansion.** 2024.
+- **Marginal tax rates in California's proposed billionaire tax.** PolicyEngine, October 2025.
+- **Comparing PolicyEngine and official UK poverty rates.** With Vahid Ahmadi. PolicyEngine, October 2025.
+- **How we used Claude Code to choose our DC office.** With Daphne Hansell. PolicyEngine, October 2025.
+- **National Science Foundation awards PolicyEngine $300,000 grant.** PolicyEngine, August 2025.
+- **Enhanced CPS full launch: Comprehensive microdata for policy analysis.** With Nikhil Woodruff, Ben Ogorek, and Maria Juaristi. PolicyEngine, August 2025.
+- **Analysis of individual income tax provisions in the final reconciliation bill.** With David Trimmer and Pavel Makarchuk. PolicyEngine, July 2025.
+- **The 2025 American Family Act.** With David Trimmer. PolicyEngine, June 2025.
+- **The SALT Caucus's Proposed Cap.** With David Trimmer. PolicyEngine, May 2025.
+- **Beta-launch: PolicyEngine's enhanced microdata for policy analysis.** With Nikhil Woodruff. PolicyEngine, March 2024.
+- **Child Tax Credit Provisions of the Tax Relief for American Workers and Families Act.** PolicyEngine, March 2024.
+- **Individual income tax provisions of President Biden's 2025 Budget.** With Pavel Makarchuk. PolicyEngine, March 2024.
+- **PolicyEngine launches state income tax modeling nationwide.** With Pavel Makarchuk. PolicyEngine, April 2024.
+
+### Substack Articles (2024-2025)
+
+- **VAT thresholds, revenues, and the role of counterfactuals.** Substack, August 2025.
+- **AI models favor Cuomo over Mamdani on NYC housing production.** Substack, June 2025.
+- **What Will the House Ways & Means Committee Propose on Tuesday?** Substack, May 2025.
+- **My 2024 in Code: Personal Projects & AI Tools.** Substack, January 2025.
+- **Elon Musk's AI Predicts Americans Will Be $800 Richer Under Harris.** Substack, November 2024.
+
+### Earlier PolicyEngine Research (2022-2023)
+
 - **Scott Winship's individualized Earned Income Tax Credit proposal.** 2023.
 - **Analysis of the Working Families Tax Cut Act.** With Nikhil Woodruff. 2023.
 - **Analysis of Guaranteed Income for the 21st Century.** 2023.
