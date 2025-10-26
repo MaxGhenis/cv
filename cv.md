@@ -215,11 +215,3 @@ University of California, Berkeley
 *January 2022 - June 2022*
 
 - Formed coalition of 15 organizations advocating to cancel proposed gas tax holiday in California
-
----
-
-## Interests
-
-**Music:** Saxophone, guitar, piano, and singing
-**Advocacy:** Pro-housing/YIMBY organizing, climate policy (carbon fee and dividend), effective altruism
-**Policy Research:** Universal basic income, tax reform, anti-poverty programs
