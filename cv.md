@@ -109,38 +109,52 @@ University of California, Berkeley
 
 ## Selected Publications & Research
 
-### PolicyEngine Research (2024-2025)
+### PolicyEngine Research
 
-- **Marginal tax rates in California's proposed billionaire tax.** PolicyEngine, October 2025.
-- **Comparing PolicyEngine and official UK poverty rates.** With Vahid Ahmadi. PolicyEngine, October 2025.
-- **How we used Claude Code to choose our DC office.** With Daphne Hansell. PolicyEngine, October 2025.
-- **National Science Foundation awards PolicyEngine $300,000 grant.** PolicyEngine, August 2025.
-- **Enhanced CPS full launch: Comprehensive microdata for policy analysis.** With Nikhil Woodruff, Ben Ogorek, and Maria Juaristi. PolicyEngine, August 2025.
-- **Analysis of individual income tax provisions in the final reconciliation bill.** With David Trimmer and Pavel Makarchuk. PolicyEngine, July 2025.
-- **The 2025 American Family Act.** With David Trimmer. PolicyEngine, June 2025.
-- **The SALT Caucus's Proposed Cap.** With David Trimmer. PolicyEngine, May 2025.
-- **Beta-launch: PolicyEngine's enhanced microdata for policy analysis.** With Nikhil Woodruff. PolicyEngine, March 2024.
-- **Child Tax Credit Provisions of the Tax Relief for American Workers and Families Act.** PolicyEngine, March 2024.
-- **Individual income tax provisions of President Biden's 2025 Budget.** With Pavel Makarchuk. PolicyEngine, March 2024.
-- **PolicyEngine launches state income tax modeling nationwide.** With Pavel Makarchuk. PolicyEngine, April 2024.
+- [Marginal tax rates in California's proposed billionaire tax](https://policyengine.org/us/research/california-billionaire-tax-marginal-rates). October 2025.
+- [Comparing PolicyEngine and official UK poverty rates](https://policyengine.org/uk/research/uk-poverty-analysis). With Vahid Ahmadi. October 2025.
+- [How removing the two-child benefit limit would affect the UK](https://policyengine.org/uk/research/uk-two-child-limit). With Vahid Ahmadi. October 2025.
+- [How we used Claude Code to choose our DC office](https://policyengine.org/us/research/dc-office-ai-coding). With Daphne Hansell. October 2025.
+- [Introducing ACA-Calc: Calculate your household's premium tax credits](https://policyengine.org/us/research/introducing-aca-calc). With Daphne Hansell. September 2025.
+- [How carbon tax and dividend policies affect UK households](https://policyengine.org/uk/research/uk-carbon-tax-dividend). With Vahid Ahmadi. September 2025.
+- [Enhanced Premium Tax Credits: Analyzing Household Impacts of an Extension Beyond 2025](https://policyengine.org/us/research/enhanced-premium-tax-credits-extension). With Daphne Hansell. September 2025.
+- [PolicyEngine and NBER sign memorandum of understanding for TAXSIM emulator development](https://policyengine.org/us/research/policyengine-nber-mou-taxsim). With Pavel Makarchuk. September 2025.
+- [National Science Foundation awards PolicyEngine $300,000 grant](https://policyengine.org/us/research/nsf-pose-phase-1-grant). August 2025.
+- [Analysis of the American Worker Rebate Act of 2025](https://policyengine.org/us/research/american-worker-rebate-act). With David Trimmer. August 2025.
+- [Enhanced CPS full launch: Comprehensive microdata for policy analysis](https://policyengine.org/us/research/enhanced-cps-launch). With Nikhil Woodruff, Ben Ogorek, and Maria Juaristi. August 2025.
+- [Analysis of individual income tax provisions in the final reconciliation bill](https://policyengine.org/us/research/final-2025-reconciliation-tax). With David Trimmer and Pavel Makarchuk. July 2025.
+- [Introducing the OBBBA Household Explorer](https://policyengine.org/us/research/introducing-obbba-household-explorer). With Pavel Makarchuk and Elena Cura. July 2025.
+- [The 2025 American Family Act](https://policyengine.org/us/research/american-family-act-2025). With David Trimmer. June 2025.
+- [Childcare programmes in PolicyEngine UK](https://policyengine.org/uk/research/uk-childcare-report). With Vahid Ahmadi. June 2025.
+- [Manager's Amendment to H.R.1 - The One Big Beautiful Bill Act](https://policyengine.org/us/research/managers-amendment-to-hr1). With Pavel Makarchuk and David Trimmer. May 2025.
+- [Montana Reduces Top Income Tax Rate and Expands EITC](https://policyengine.org/us/research/montana-tax-cuts-2026). With David Trimmer. May 2025.
+- [The SALT Caucus's Proposed Cap](https://policyengine.org/us/research/salt-caucus-62k-cap). With David Trimmer. May 2025.
+- [Ways and Means Committee's SALT Cap](https://policyengine.org/us/research/ways-and-means-salt-cap). With Pavel Makarchuk and David Trimmer. May 2025.
+- [Tax changes in effect in April 2025](https://policyengine.org/uk/research/impact-of-tax-changes-2025-2026). With Nikhil Woodruff. April 2025.
+- [What's the SALTernative?](https://policyengine.org/us/research/introducing-salternative). With Pavel Makarchuk. April 2025.
+- [MyFriendBen Launches in North Carolina, Using PolicyEngine API](https://policyengine.org/us/research/myfriendben-nc). April 2025.
+- [HM Treasury pilots PolicyEngine UK for tax-benefit microsimulation](https://policyengine.org/uk/research/hmt-policyengine-pilot). With Nikhil Woodruff. March 2025.
+- [Extending the Income Tax threshold freeze to 2030](https://policyengine.org/uk/research/income-tax-freeze). With Nikhil Woodruff. March 2025.
+- [Preliminary analysis of the Wyden-Smith Child Tax Credit expansion](https://policyengine.org/us/research/wyden-smith-ctc). With Pavel Makarchuk. January 2024.
+- [Beta-launch: PolicyEngine's enhanced microdata for policy analysis](https://policyengine.org/us/research/enhanced-cps-beta). With Nikhil Woodruff. March 2024.
+- [Child Tax Credit Provisions of the Tax Relief for American Workers and Families Act](https://policyengine.org/us/research/trafwa-ctc). March 2024.
+- [Individual income tax provisions of President Biden's 2025 Budget](https://policyengine.org/us/research/biden-budget-2025). With Pavel Makarchuk. March 2024.
+- [PolicyEngine launches state income tax modeling nationwide](https://policyengine.org/us/research/state-tax-model-beta). With Pavel Makarchuk. April 2024.
+- [Scott Winship's individualized Earned Income Tax Credit proposal](https://policyengine.org/us/research/winship-individualized-eitc). 2023.
+- [Analysis of the Working Families Tax Cut Act](https://policyengine.org/us/research/malliotakis-steel-working-families-tax-cut-act). With Nikhil Woodruff. 2023.
+- [Analysis of Guaranteed Income for the 21st Century](https://policyengine.org/us/research/analysis-of-guaranteed-income-for-the-21st-century). 2023.
+- [Massachusetts Governor Maura Healey's FY 2024 Budget Recommendation](https://policyengine.org/us/research/massachusetts-governor-maura-healeys-fy-2024-budget-recommendation). 2023.
+- [The Child Tax Credit in 2023](https://policyengine.org/us/research/the-child-tax-credit-in-2023). 2023.
+- [How would reforms affect cliffs?](https://policyengine.org/us/research/how-would-reforms-affect-cliffs). With Nikhil Woodruff. 2023.
+- [Electric vehicle tax credits under current law and the Inflation Reduction Act](https://policyengine.org/us/research/electric-vehicle-tax-credits-under-current-law-and-the-inflation-reduction-act). 2022.
 
-### Substack Articles (2024-2025)
+### Substack
 
-- **VAT thresholds, revenues, and the role of counterfactuals.** Substack, August 2025.
-- **AI models favor Cuomo over Mamdani on NYC housing production.** Substack, June 2025.
-- **What Will the House Ways & Means Committee Propose on Tuesday?** Substack, May 2025.
-- **My 2024 in Code: Personal Projects & AI Tools.** Substack, January 2025.
-- **Elon Musk's AI Predicts Americans Will Be $800 Richer Under Harris.** Substack, November 2024.
-
-### Earlier PolicyEngine Research (2022-2023)
-
-- **Scott Winship's individualized Earned Income Tax Credit proposal.** 2023.
-- **Analysis of the Working Families Tax Cut Act.** With Nikhil Woodruff. 2023.
-- **Analysis of Guaranteed Income for the 21st Century.** 2023.
-- **Massachusetts Governor Maura Healey's FY 2024 Budget Recommendation.** 2023.
-- **The Child Tax Credit in 2023.** 2023.
-- **How would reforms affect cliffs?** With Nikhil Woodruff. 2023.
-- **Electric vehicle tax credits under current law and the Inflation Reduction Act.** 2022.
+- [VAT thresholds, revenues, and the role of counterfactuals](https://maxghenis.substack.com/p/vat-thresholds-revenues-and-the-role). August 2025.
+- [AI models favor Cuomo over Mamdani on NYC housing production](https://maxghenis.substack.com/p/ai-models-favor-cuomo-over-mamdani). June 2025.
+- [What Will the House Ways & Means Committee Propose on Tuesday?](https://maxghenis.substack.com/p/what-will-the-house-ways-and-means). May 2025.
+- [My 2024 in Code: Personal Projects & AI Tools](https://maxghenis.substack.com/p/my-2024-in-code-personal-projects). January 2025.
+- [Elon Musk's AI Predicts Americans Will Be $800 Richer Under Harris](https://maxghenis.substack.com/p/elon-musks-ai-predicts-americans). November 2024.
 
 ### UBI Center Research (2019-2022)
 
