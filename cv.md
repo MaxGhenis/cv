@@ -5,10 +5,10 @@
 <p><i class="fas fa-phone"></i> +1.650.630.3657</p>
 <p><i class="fas fa-map-marker-alt"></i> Washington, DC</p>
 <p><i class="fas fa-globe"></i> <a href="https://maxghenis.com">maxghenis.com</a></p>
-<p><i class="fab fa-github"></i> <a href="https://github.com/maxghenis">github.com/maxghenis</a></p>
-<p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/maxghenis">linkedin.com/in/maxghenis</a></p>
-<p><i class="fab fa-x-twitter"></i> <a href="https://x.com/maxghenis">x.com/maxghenis</a></p>
-<p><i class="fa-brands fa-bluesky"></i> <a href="https://bsky.app/profile/maxghenis.bsky.social">bsky.app/profile/maxghenis.bsky.social</a></p>
+<p><i class="fab fa-github"></i> <a href="https://github.com/maxghenis">@maxghenis</a></p>
+<p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/maxghenis">@maxghenis</a></p>
+<p><i class="fab fa-x-twitter"></i> <a href="https://x.com/maxghenis">@maxghenis</a></p>
+<p><i class="fa-brands fa-bluesky"></i> <a href="https://bsky.app/profile/maxghenis.bsky.social">@maxghenis</a></p>
 </div>
 
 ---
@@ -78,14 +78,33 @@ Policy entrepreneur, technologist, and economist building computational tools th
 
 ---
 
+## Education
+
+**M.S., Data, Economics, and Development Policy** | *2020*
+Massachusetts Institute of Technology
+
+**B.A., Operations Research and Management Science** | *2008*
+University of California, Berkeley
+*Minors: Industrial Engineering & Operations Research, Music*
+
+---
+
 ## Key Skills & Technologies
 
 **Programming & Data Science:**
+
 - Expert: Python (pandas, NumPy, scikit-learn), R (ggplot2, tidyverse), SQL, Jupyter
 - Proficient: JavaScript/TypeScript, React, Stata, Google Apps Script, Linux/shell
 - Intermediate: SAS, VBA
 
+**AI & Modern Development:**
+
+- LLM programming and prompt engineering
+- AI coding agents (Claude Code, GitHub Copilot)
+- Automated code generation and testing
+
 **Specialized Expertise:**
+
 - Microsimulation modeling and agent-based simulation
 - Machine learning for survey data imputation and calibration
 - Tax and benefit policy analysis
@@ -95,6 +114,7 @@ Policy entrepreneur, technologist, and economist building computational tools th
 - Open-source software development
 
 **Domain Knowledge:**
+
 - Tax policy (income, payroll, wealth, carbon taxation)
 - Benefit programs (SNAP, TANF, SSI, housing assistance)
 - Universal basic income and cash transfer policies
@@ -165,14 +185,34 @@ Policy entrepreneur, technologist, and economist building computational tools th
 
 ---
 
-## Education
+## Conference Presentations & Speaking Engagements
 
-**M.S., Data, Economics, and Development Policy** | *2020*
-Massachusetts Institute of Technology
+**National Tax Association (NTA) 117th Annual Conference on Taxation** | November 2024, Detroit, MI
+- "What Can LLMs Tell Us about the ETI?" With Jason DeBacker
+- "PolicyEngine's Enhanced Current Population Survey for Tax-Benefit Microsimulation." With Nikhil Woodruff
 
-**B.A., Operations Research and Management Science** | *2008*
-University of California, Berkeley
-*Minors: Industrial Engineering & Operations Research, Music*
+**Association for Public Policy Analysis and Management (APPAM) Fall Research Conference** | November 2024
+
+**National Tax Association Spring Symposium** | 2024
+
+**BenCon** | 2024
+
+**Open Sustainability Summit** | 2024
+
+**Society of Government Economists Annual Conference** | 2025
+
+**Rules as Code Europe** | March 2025, Paris, France
+
+**University Guest Lectures** | 2024
+- UC Berkeley
+- Northwestern University
+- George Mason University
+- University of Toronto
+
+**Rules as Code Demo Day, Beeck Center** | June 2022, Washington, DC
+- Presented PolicyEngine platform with Nikhil Woodruff
+
+**Basic Income Guarantee (BIG) Conference** | June 2022, Portland, OR
 
 ---
 
