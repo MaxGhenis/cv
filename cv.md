@@ -14,17 +14,6 @@ Policy entrepreneur, technologist, and economist building computational tools th
 
 ---
 
-## Education
-
-**M.S., Data, Economics, and Development Policy** | *2020*
-Massachusetts Institute of Technology
-
-**B.A., Operations Research and Management Science** | *2008*
-University of California, Berkeley
-*Minors: Industrial Engineering & Operations Research, Music*
-
----
-
 ## Professional Experience
 
 ### Co-founder and CEO, [PolicyEngine](http://policyengine.org)
@@ -63,10 +52,10 @@ University of California, Berkeley
 - Conducted first deep-dive analysis of female YouTube usage
 - Led quantitative analysis for algorithm estimating reach across videos, channels, and countries
 
-### Senior People Analyst (HR), [Google](https://www.google.com/)
+### People Analytics Manager, [Google](https://www.google.com/)
 *July 2010 - July 2015*
 
-- Co-founded People Analytics Data Science team, establishing data-driven approaches to workforce planning and organizational effectiveness
+- Promoted twice (People Analyst → Senior People Analyst → People Analytics Manager), co-founding People Analytics Data Science team and establishing data-driven approaches to workforce planning and organizational effectiveness
 - Led social network analysis of company-wide survey, including force-directed graph layouts, predictors of employee PageRank centrality and edge formation, and organizational integration
 - Conceptualized and executed restructure of People Analytics survey data, leveraging internal SQL and writing functions in custom R package for consistent, efficient, longitudinal analysis
 - Analyzed promotion and transfer activity via survival analysis and random forests
@@ -173,6 +162,17 @@ University of California, Berkeley
 - **microdf** - Python library for weighted survey data analysis (pandas extension)
 - **synthimpute** - Python library for synthetic data generation and variable imputation
 - **glassbox** - R package for model interpretability (with Ben Ogorek and Estevan Flores)
+
+---
+
+## Education
+
+**M.S., Data, Economics, and Development Policy** | *2020*
+Massachusetts Institute of Technology
+
+**B.A., Operations Research and Management Science** | *2008*
+University of California, Berkeley
+*Minors: Industrial Engineering & Operations Research, Music*
 
 ---
 

@@ -91,7 +91,7 @@ def add_semantic_classes(html: str) -> str:
         html
     )
     html = re.sub(
-        r'(democratize policy analysis\.</p>)',
+        r'(economic impact assessment\.</p>)',
         r'\1\n</div>',
         html
     )
